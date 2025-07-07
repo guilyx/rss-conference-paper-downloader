@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "category": "Perception and Navigation",
+      "id_range": [1, 9]
+    },
+    {
+      "category": "VLA Models",
+      "id_range": [10, 19]
+    },
+    {
+      "category": "Scaling Robot Learning",
+      "id_range": [20, 28]
+    },
+    {
+      "category": "Perception",
+      "id_range": [29, 42]
+    },
+    {
+      "category": "Planning",
+      "id_range": [43, 51]
+    },
+    {
+      "category": "Manipulation I",
+      "id_range": [52, 60]
+    },
+    {
+      "category": "Humanoids",
+      "id_range": [61, 70]
+    },
+    {
+      "category": "Imitation Learning I",
+      "id_range": [71, 79]
+    },
+    {
+      "category": "HRI",
+      "id_range": [80, 93]
+    },
+    {
+      "category": "Multi-Robot Systems",
+      "id_range": [94, 102]
+    },
+    {
+      "category": "Manipulation II",
+      "id_range": [103, 111]
+    },
+    {
+      "category": "Control and Dynamics",
+      "id_range": [112, 121]
+    },
+    {
+      "category": "Mobile Manipulation and Locomotion",
+      "id_range": [122, 130]
+    },
+    {
+      "category": "Robot Design",
+      "id_range": [131, 135]
+    },
+    {
+      "category": "Navigation",
+      "id_range": [136, 144]
+    },
+    {
+      "category": "Manipulation III",
+      "id_range": [145, 154]
+    },
+    {
+      "category": "Imitation Learning II",
+      "id_range": [155, 163]
+    }
+  ]
+}
